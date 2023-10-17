@@ -1,0 +1,14 @@
+arguments.sh
+conditionals.sh
+continue_break.sh
+error.txt
+file.txt
+helloword.sh
+hola.txt
+keys.sh
+logical_operator.sh
+loops.sh
+output.sh
+read.sh
+stderr_stdout.sh
+stdin.sh
